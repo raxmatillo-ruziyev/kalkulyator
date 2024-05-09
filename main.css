@@ -1,0 +1,151 @@
+.container{
+    width: 300px;
+    height: 320px;
+    border: 1px solid rgb(32, 30, 30);
+    margin: 0 auto;
+    border-radius: 5px;
+    background-color: rgba(0, 0, 0, 0.76);
+
+   
+}
+.first,.second{
+    width: 100px;
+    margin-left: 5px;
+    border: none;
+    height: 30px;
+    border-bottom: 1px solid black;
+}
+.box{
+    margin: 20px auto;
+    width: 280px;
+    height: 90px;
+    border: 1px solid black;
+    border-radius: 5px;
+    background-color: white;
+}
+.res{
+
+    width: 70px;
+    height: 8px;
+    padding: 20px;
+    margin-left: 5px;
+    border-bottom: 1px solid black;
+}
+.wrap{
+    position: relative;
+    margin: 0 auto;
+    width: 280px;
+ 
+}
+button{
+    font-size: 35px;
+    margin: 2px;
+}
+.bir{
+    position: absolute;
+    top: 70px;
+    left: 50px;
+
+}
+.ikki{
+    position: absolute;
+    top: 70px;
+    left:93px;
+}
+.uch{
+    position: absolute;
+    top: 70px;
+    left: 137px;
+}
+.tort{
+    position: absolute;
+    top: 70px;
+    right: 60px;
+}
+.besh{
+    position: absolute;
+    top: 70px;
+    right: 19.5px;
+}
+.olti{
+    position: absolute;
+    top: 130px;
+    left: 50px;
+}
+.yetti{
+    position: absolute;
+    top: 130px;
+    left: 93px;
+}
+.sakkiz{
+    position: absolute;
+    top: 130px;
+    left: 137px;
+}
+.toqqiz{
+    position: absolute;
+    top: 130px;
+    right: 60px;
+}
+.nol{
+    position: absolute;
+    top: 130px;
+    right: 19.5px;
+}
+.daraja{
+    position: absolute;
+    top: 70px;
+    left: 0px;
+   
+}
+.kv{
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+.ildiz{
+    position: absolute;
+    top: 130px;
+    left: 0;
+    padding: 0px 10px;
+}
+.sup{
+    font-size: 17px;
+
+}
+.qosh{
+    position: absolute;
+    top: 0;
+    left: 50px;
+}
+.ayir{
+    position: absolute;
+    top: 0;
+    left: 93px;
+    padding: 1px 10px;
+}
+.bol{
+    position: absolute;
+    top: 0;
+    left: 137px;
+    padding:1px  10px;
+}
+.kopaytir{
+    position: absolute;
+    top: 0;
+    right: 60px;
+    padding: 1px 10px;
+}
+.ochir{
+    position: absolute;
+    top: 0;
+    right: 19px;
+    font-size: 30px;
+    padding:  5px 5px;
+    background: red;
+    border: 1px solid white;
+    border-radius: 2px;
+    color: white;
+    
+}
+
